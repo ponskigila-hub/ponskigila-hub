@@ -1,4 +1,4 @@
-# Hi there! I'm Nicholas Driyadis Tjoe 👋
+# Hi there! I'm Nicholas Driyadis Tjoe
 
 <h3 align="center">Computer Science Student @ BINUS | Machine Learning & Data Science</h3>
 
@@ -70,6 +70,6 @@ Computer Science student at BINUS University passionate about machine learning, 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ponskigila-hub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ponskigila-hub&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponskigila-hub&layout=compact&theme=tokyonight" width="48%" />
 </p>
