@@ -70,6 +70,7 @@ Computer Science student at BINUS University passionate about machine learning, 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ponskigila-hub&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ponskigila-hub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponskigila-hub&layout=compact&theme=tokyonight" width="48%" />
+  ![Total Commits](https://img.shields.io/badge/Total%20Commits-800%2B-brightgreen?style=for-the-badge&logo=github)
 </p>
